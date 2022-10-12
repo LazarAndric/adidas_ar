@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-6-g4fb8708">
+        <ModelTarget name="rubik_cube_separated_cubes" targetId="af9220ca6a544b4c9426bdd23a7e7258" version="13.0" toolVersion="v5.6.0-6-g4fb8708" bbox="-0.028626 0.000745 -0.028626 0.028626 0.057997 0.028626" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="rubik_cube_separated_cubes" assemblyId="c4ca7093de48484aa17c69212a870b07">
+        <Part name="rubik_cube_separated_cubes" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
