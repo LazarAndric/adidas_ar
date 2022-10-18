@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="plavi_adidas_Beogradjanka" size="2.000000 2.000000" />
+    <ImageTarget name="MSU1" size="2.000000 1.258659" />
+    <ImageTarget name="CrniX" size="2.000000 1.998008" />
+    <ImageTarget name="Beli_audio_Visual" size="2.000000 0.517588" />
+    <ImageTarget name="Skejt_plavi_skejtpark" size="2.000000 2.000000" />
+    <ImageTarget name="Plavi_Open_Beogradjanaka" size="2.000000 5.983122" />
+    <ImageTarget name="adidas_Beogradjanka_crni" size="2.000000 1.997585" />
+  </Tracking>
+</QCARConfig>
