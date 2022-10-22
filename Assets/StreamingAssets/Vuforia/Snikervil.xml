@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="pica_pecurke" size="1.000000 0.856280" />
     <ImageTarget name="Skejt_srce" size="1.000000 0.560405" />
     <ImageTarget name="24hr_crno_belo" size="1.000000 0.502110" />
     <ImageTarget name="sprej_plava" size="1.000000 1.572433" />
