@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/beogradjanka.unity
-    guid: 4c71f02e812da4173bf2d6b2a18a6d18
+    path: Assets/snikervil.unity
+    guid: c63055bb9d28148db86a6b94699160d3
   m_configObjects: {}
